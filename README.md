@@ -1,7 +1,7 @@
 # Hi, I’m Shubham 👋
 B.Tech Student — Computer Science & Cloud Computing (SRM University). I build practical software and embedded systems that connect the cloud to the physical world.
 
----
+
 
 ## 🔧 Core skills
 - **Languages:** Python · Java · C++ · C  
@@ -11,7 +11,7 @@ B.Tech Student — Computer Science & Cloud Computing (SRM University). I build 
 - **Tools:** Git · GitHub · VS Code · shell workflow  
 - **APIs / AI:** OpenAI (GPT), speech-recognition integrations, external REST APIs
 
----
+
 
 ## 🚀 Selected projects
 - **Veronica — Voice Assistant**  
@@ -23,9 +23,7 @@ B.Tech Student — Computer Science & Cloud Computing (SRM University). I build 
 - **Automated Food Donation Network**  
   Hackathon project connecting donors and NGOs with automation and coordination features. (Skills: system design, backend logic, team collaboration)
 
-> Tip: Pin these repositories on your profile so visitors can find them quickly.
 
----
 
 💡 Strengths & approach
 - Strong **problem-solving** and debugging skills — comfortable with both hardware and software issues.  
@@ -33,7 +31,6 @@ B.Tech Student — Computer Science & Cloud Computing (SRM University). I build 
 - Quick to learn new stacks; enjoy applying cloud solutions to embedded projects.  
 - Focused on clean commits, well-documented PRs, and constructive code review.
 
----
 
 📫 Get in touch
 - Email: putitundishubham@gmail.com
