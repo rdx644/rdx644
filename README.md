@@ -1,48 +1,107 @@
-# Hi, I’m Shubham 👋
-B.Tech Student — Computer Science & Cloud Computing (SRM University). I build practical software and embedded systems that connect the cloud to the physical world.
+<h1 align="center">Hi 👋, I'm Shubham Putitundi</h1>
+<h3 align="center">🚀 Cloud & AI Enthusiast | Cyber Security | Generative AI Developer</h3>
 
-
-
-## 🔧 Core skills
-- **Languages:** Python · Java · C++ · C  
-- **Web / Backend:** REST APIs, Flask/Django basics  
-- **Cloud & DevOps:** Google Cloud Platform (GCP), basic CI/CD concepts  
-- **Embedded / IoT:** ESP32, NEO-6M GPS, SIM800L (GSM), Wi-Fi integration  
-- **Tools:** Git · GitHub · VS Code · shell workflow  
-- **APIs / AI:** OpenAI (GPT), speech-recognition integrations, external REST APIs
-
-
-
-## 🚀 Selected projects
-- **Veronica — Voice Assistant**  
-  A Python-based voice assistant integrating speech recognition and OpenAI GPT for conversational features. (Skills: Python, APIs, speech-recognition, deployment testing)
-
-- **ESP32 Vehicle Tracking System**  
-  Real-time tracker using ESP32 + NEO-6M GPS with dual-mode connectivity (SIM800L GSM + Wi-Fi) and basic backend for location updates. (Skills: Embedded C/C++, IoT, networking)
-
-- **Automated Food Donation Network**  
-  Hackathon project connecting donors and NGOs with automation and coordination features. (Skills: system design, backend logic, team collaboration)
-
-
-
-💡 Strengths & approach
-- Strong **problem-solving** and debugging skills — comfortable with both hardware and software issues.  
-- **Collaborative**: experience working in small team settings and hackathons.  
-- Quick to learn new stacks; enjoy applying cloud solutions to embedded projects.  
-- Focused on clean commits, well-documented PRs, and constructive code review.
-
-
-📫 Get in touch
-- Email: putitundishubham@gmail.com
-- LinkedIn: www.linkedin.com/in/shubham-putitundi-b41a802b1
-- GitHub:  — feel free to open an issue/PR or invite me to collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-putitundi-b41a802b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Putitundi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://chadshubham.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify" />
+  </a>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws" />
+</p>
 
 ---
 
-📌 How I contribute
-- Look for contributions in backend, API, cloud integration, docs, tests, and beginner-friendly issues.  
-- Open to mentorship and to help newcomers with Git/GitHub basics.
+## 👨‍💻 About Me
+🎓 B.Tech CSE (Cloud Computing) student at **SRM Institute of Science and Technology**  
+☁️ Passionate about **Cloud Architecture, Cyber Security & AI Systems**  
+💡 Love building **scalable, real-world solutions**  
+🚀 Exploring **Generative AI & Zero Trust Security Models**
 
 ---
 
-Thanks for visiting — let’s build something useful! 👨‍💻
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
+
+### 🤖 AI / ML / Cyber Security
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-black?style=for-the-badge)
+
+---
+
+## 💼 Experience
+
+### 🚀 Campus Ambassador – eDC IIT Delhi
+- Promoting entrepreneurship & innovation initiatives
+
+### 💻 Open Source Contributor – GirlScript Summer of Code
+- Contributed to real-world projects and collaborative development
+
+### 📊 McKinsey STEP Forward Program
+- Developed **problem-solving, leadership & consulting skills**
+- Worked on **case studies & business simulations**
+
+### 🔐 Zscaler Virtual Internship
+- Learned **Zero Trust Architecture (ZTA)**
+- Worked on **ZIA, ZPA & cloud security frameworks**
+
+### ☁️ AWS Cloud Virtual Internship
+- Hands-on with **IaaS, PaaS, SaaS**
+- Built and deployed **cloud-based applications**
+
+### 🤖 Google AI Internship
+- Worked on **Generative AI & GCP tools**
+
+---
+
+## 📜 Certifications
+✔️ AWS Academy Cloud Foundations  
+✔️ AWS Solutions Architecture Job Simulation  
+✔️ Google AI Agents Intensive Course  
+✔️ Cyber Security Fundamentals  
+
+---
+
+## 🚀 Projects
+🔹 **Automated Food Donation Network**  
+🔹 **Chronic Disease Risk Prediction System**  
+🔹 **AI Voice Assistant (Veronica)**  
+🔹 **Vehicle Tracking System (IoT + GPS + GSM)**  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: putitundishubham@gmail.com  
+📱 Phone: +91 9142899360  
+
+<p>
+  <a href="https://www.linkedin.com/in/shubham-putitundi-b41a802b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 *I love combining Cloud + AI + Security to build future-ready systems!*
