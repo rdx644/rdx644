@@ -108,10 +108,3 @@
 - ☁️ Advanced Cloud Architecture  
 
 ---
-
-## 🔥 Bonus (Optional Add-ons)
-
-### 🟢 Visitor Counter  
-```markdown
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-![Snake animation](https://github.com/rdx644/rdx644/blob/output/github-contribution-grid-snake.svg)
