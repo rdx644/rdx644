@@ -13,8 +13,7 @@
 
 I am a certified Cloud Professional and Software Engineer focused on the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. I thrive on transforming complex logic into robust, production-ready solutions, from multi-layered threat detection to intelligent API orchestration.
 
-* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology (CGPA: 8.27).
-* 💼 **Upcoming:** Summer Internship at SVNIT Surat (May 18 - July 17, 2026).
+* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology (CGPA: 8.27)
 * 🌱 **Currently Mastering:** Agentic AI Workflows, Advanced AWS Architecture, and Graph-Database Threat Detection.
 * ⚡ **Fun Fact:** I actively participate in AI and engineering hackathons to push the boundaries of generative systems.
 
