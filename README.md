@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/687f0a58-9eda-4796-87bd-9a14c7224529" alt="Shubham Putitundi Header Banner" width="100%" />
+  <img src="<img width="1584" height="396" alt="SHUBHAMPUTITUNDI" src="https://github.com/user-attachments/assets/29ed754f-1523-4311-b161-b06c7f14ec51" />
+" alt="Shubham Putitundi Header Banner" width="100%" />
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
   </a>
