@@ -1,5 +1,5 @@
 <div align="center">
-    <img src = https://github.com/user-attachments/assets/db83c2a5-9420-4bf0-b003-7b88d5f91935" < width="1584" height="396" alt="SHUBHAMPUTITUNDI">
+    <img src = ![Uploading SHUBHAMPUTITUNDI.gif…]()
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
   </a>
