@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://canva.link/q3i489yncehhej1"type=waving&color=gradient&height=250&section=header&text=Shubham%20Putitundi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20&%20Intelligent%20Cloud%20Systems&descAlignY=61&descAlign=62" alt="Header Banner" />
+  <img src="https://canva.link/q3i489yncehhej1?"type=waving&color=gradient&height=250&section=header&text=Shubham%20Putitundi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20&%20Intelligent%20Cloud%20Systems&descAlignY=61&descAlign=62" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
