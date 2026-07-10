@@ -95,7 +95,6 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 
 <div align="center">
   <a href="https://github.com/rdx644">
-    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/rdx644">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
@@ -106,5 +105,4 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b8b21f6-e384-45a5-89fd-ceef40a8d65c" alt="SHUBHAMPUTITUNDI" width="100%"/>
- />
 </div>
