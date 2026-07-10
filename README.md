@@ -1,107 +1,115 @@
 <div align="center">
-  <h1>Hi there, I'm Shubham Putitundi 👋</h1>
-  <h3>Cloud Infrastructure | Cybersecurity | AI/ML Engineer</h3>
-  <p>Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shubham%20Putitundi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20&%20Intelligent%20Cloud%20Systems&descAlignY=61&descAlign=62" alt="Header Banner" />
 
-  <a href="https://shubham-putitundi-2v6467k.gamma.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/shubham-putitundi-b41a802b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:putitundishubham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+  <br>
+
+  <a href="https://shubham-putitundi-2v6467k.gamma.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shubham-putitundi-b41a802b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:putitundishubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-I am a certified Cloud Professional and Software Engineer passionate about designing secure, scalable architectures and intelligent systems. My focus lies at the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. Whether I'm building multi-layered threat detection models or orchestrating AI-driven APIs, I thrive on turning complex logic into robust, production-ready solutions.
+I am a certified Cloud Professional and Software Engineer focused on the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. I thrive on transforming complex logic into robust, production-ready solutions, from multi-layered threat detection to intelligent API orchestration.
 
-* 🎓 **Graduating:** 2027 (CGPA: 8.27 / 10.0)
-* 📍 **Location:** Chennai, Tamil Nadu, India
-* 🌱 **Currently Learning:** Advanced AWS Architecture, Agentic AI Workflows, and Graph-Database Threat Detection.
-* 💬 **Ask me about:** AWS, Zero Trust Architecture, Machine Learning Pipelines, and Python.
+* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology (CGPA: 8.27).
+* 💼 **Upcoming:** Summer Internship at SVNIT Surat (May 18 - July 17, 2026).
+* 🌱 **Currently Mastering:** Agentic AI Workflows, Advanced AWS Architecture, and Graph-Database Threat Detection.
+* ⚡ **Fun Fact:** I actively participate in AI and engineering hackathons to push the boundaries of generative systems.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,py,java,js,scikit,tensorflow,linux,git,github,docker,bash&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ [CyberShield AI](https://github.com/rdx644)
-**AI-Driven Zero Trust Cybersecurity Platform**
-An intelligent, multi-layered security system leveraging Machine Learning and cloud-native tooling (AWS Lambda, GuardDuty) to detect and neutralize threats in real-time.
-* **Highlight:** Achieved 95% accuracy in phishing detection using TF-IDF + Logistic Regression and implemented real-time network anomaly detection via Isolation Forests.
-
-### 🎯 [Goal Forge](https://github.com/rdx644/Goal-Forge-)
-**Production-Grade OKR & Performance Management Portal**
-A full-stack, BRD-compliant goal-tracking application built for Atomberg's annual performance cycle. 
-* **Highlight:** Engineered automated escalations, quarterly manager review workflows, and comprehensive audit logging with secure REST APIs.
-
-### 🎭 [AI-Directed NPC Actors](https://github.com/rdx644)
-**Multi-Service API Orchestration**
-Architected a dynamic NPC orchestration system utilizing LLMs to generate contextually aware, adaptive non-player character behavior.
-* **Highlight:** Streamlined complex AI agent logic and API pipelines for real-time generative decision-making.
-
-### 🏥 [Chronic Disease Risk Prediction](https://github.com/rdx644/Chronic-Disease-Risk-Prediction)
-**AI-Powered Healthcare Platform on AWS**
-An ML-driven risk prediction system deployed on AWS for scalable, real-time risk scoring and healthcare intelligence.
-
----
-
-## 🛠️ Technical Arsenal
-
-<details>
-<summary><b>Cloud & Infrastructure</b></summary>
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-</details>
-
-<details>
-<summary><b>AI, ML & Data Science</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</details>
-
-<details>
-<summary><b>Languages & Development</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</details>
-
----
-
-## 📜 Certifications & Professional Development
-
-| Credential | Issuer | Domain |
-| :--- | :--- | :--- |
-| ☁️ **AWS Cloud Developer / Practitioner** | Amazon Web Services | Cloud Infrastructure |
-| 🔴 **Oracle Cloud Certified** | Oracle | Cloud Platform |
-| 🛡️ **Zero Trust Cloud Security** | Zscaler | Cybersecurity |
-| 🤖 **Generative AI Engineer (Virtual)** | Google | AI / ML |
-| 📈 **McKinsey Forward Program** | McKinsey & Company | Leadership & Strategy |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/rdx644">CyberShield AI</a></h3>
+      <p><b>AI-Driven Zero Trust Cybersecurity Platform</b></p>
+      <p>An intelligent, multi-layered security system leveraging Machine Learning to detect and neutralize threats in real-time. Achieved 95% accuracy in phishing detection via TF-IDF + Logistic Regression and implemented real-time network anomaly detection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/rdx644/Goal-Forge-">Goal Forge</a></h3>
+      <p><b>Production-Grade OKR & Performance Portal</b></p>
+      <p>A full-stack, BRD-compliant goal-tracking application engineered with automated escalations, quarterly manager review workflows, and comprehensive audit logging with secure REST APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎭 <a href="https://github.com/rdx644">AI-Directed NPC Actors</a></h3>
+      <p><b>Multi-Service API Orchestration</b></p>
+      <p>Architected a dynamic NPC orchestration system utilizing LLMs to generate contextually aware, adaptive non-player character behavior. Streamlined complex agent logic and real-time generative decision-making.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Generative_AI-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/rdx644/Chronic-Disease-Risk-Prediction">Chronic Disease Prediction</a></h3>
+      <p><b>AI-Powered Healthcare Platform on AWS</b></p>
+      <p>An ML-driven risk prediction system deployed on AWS for scalable, real-time risk scoring and healthcare intelligence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏫 <a href="https://github.com/rdx644">College Issue Tracking System</a></h3>
+      <p><b>Web-based Complaint Management Workflow</b></p>
+      <p>Developed a comprehensive software engineering project detailing front-end mockups and systematic workflow descriptions for tracking and resolving collegiate complaints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Software_Engineering-000000?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=radical" alt="rdx644's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=radical" alt="rdx644's GitHub Streak" width="48%" />
+  <a href="https://github.com/rdx644">
+    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/rdx644">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <br>
 
-> *"Security is not a product, but a process."* — Bruce Schneier
-
 <div align="center">
-  <b>Open to internship opportunities in Cloud Engineering, AI/ML, and Cybersecurity.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </div>
