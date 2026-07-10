@@ -105,5 +105,6 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://github.com/user-attachments/assets/6b8b21f6-e384-45a5-89fd-ceef40a8d65c" alt="SHUBHAMPUTITUNDI" width="100%"/>
+ />
 </div>
