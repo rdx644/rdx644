@@ -9,7 +9,7 @@
   <a href="mailto:putitundishubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 <br>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a certified Cloud Professional and Software Engineer focused on the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. I thrive on transforming complex logic into robust, production-ready solutions, from multi-layered threat detection to intelligent API orchestration.
 
