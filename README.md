@@ -1,7 +1,16 @@
 <div align="center">
-  <img src="<img width="1584" height="396" alt="SHUBHAMPUTITUNDI" src="https://github.com/user-attachments/assets/687f0a58-9eda-4796-87bd-9a14c7224529" />
-"type=waving&color=gradient&height=250&section=header&text=Shubham%20Putitundi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20&%20Intelligent%20Cloud%20Systems&descAlignY=61&descAlign=62" alt="Header Banner" />
+  <img src="https://github.com/user-attachments/assets/687f0a58-9eda-4796-87bd-9a14c7224529" alt="Shubham Putitundi Header Banner" width="100%" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <a href="https://shubham-putitundi-2v6467k.gamma.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shubham-putitundi-b41a802b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:putitundishubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
   </a>
