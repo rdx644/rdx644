@@ -89,8 +89,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
       <p>
       <img src = "https://img.shields.io/badge/Google%20cloud%20-4285F4Color%3Dwhite" /> 
        <img src = "https://img.shields.io/badge/%20Ruff%20Linting-4295A2" />
-       <img src = "https://img.shields.io/badge/CI%2FCD-Color%3D" />
-       
+       <img src = [![CI](https://github.com/rdx644/VoteWise-Election-Assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/rdx644/VoteWise-Election-Assistant/actions)
   </tr>
 </table>
 
