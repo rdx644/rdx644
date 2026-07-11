@@ -40,7 +40,6 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
       <p><b>AI-Driven Zero Trust Cybersecurity Platform</b></p>
       <p>An intelligent, multi-layered security system leveraging Machine Learning to detect and neutralize threats in real-time. Achieved 95% accuracy in phishing detection via TF-IDF + Logistic Regression and implemented real-time network anomaly detection.</p>
       <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
       </p>
