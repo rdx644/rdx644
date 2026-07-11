@@ -76,13 +76,19 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🏫 <a href="https://github.com/rdx644">College Issue Tracking System</a></h3>
       <p><b>Web-based Complaint Management Workflow</b></p>
       <p>Developed a comprehensive software engineering project detailing front-end mockups and systematic workflow descriptions for tracking and resolving collegiate complaints.</p>
       <p>
         <img src="https://img.shields.io/badge/Software_Engineering-000000?style=flat&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+       <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/rdx644/VoteWise-Election-Assistant.git">VoteWise-Election-Assistant</a></h3>
+      <p><b>An AI-powered assistant that helps users understand the U.S. election process, timelines, and steps in an interactive and easy-to-follow way.</b></p>
+      <p>
+       <img src =![Uploading CloudRun-512-color-rgb.svg…]
+        <img src= ![Uploading Cloud_Storage-512-color.svg…]()
       </p>
     </td>
   </tr>
