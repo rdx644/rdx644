@@ -13,7 +13,7 @@
 
 I am a certified Cloud Professional and Software Engineer focused on the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. I thrive on transforming complex logic into robust, production-ready solutions, from multi-layered threat detection to intelligent API orchestration.
 
-* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology (CGPA: 8.27)
+* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology 
 * 🌱 **Currently Mastering:** Agentic AI Workflows, Advanced AWS Architecture, and Graph-Database Threat Detection.
 * ⚡ **Fun Fact:** I actively participate in AI and engineering hackathons to push the boundaries of generative systems.
 
@@ -87,9 +87,9 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
       <h3>🏥 <a href="https://github.com/rdx644/VoteWise-Election-Assistant.git">VoteWise-Election-Assistant</a></h3>
       <p><b>An AI-powered assistant that helps users understand the U.S. election process, timelines, and steps in an interactive and easy-to-follow way.</b></p>
       <p>
-       <img src=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Ruff</title><path d="M3 0C1.338 0 0 1.338 0 3v18c0 1.662 1.338 3 3 3h18c1.662 0 3-1.338 3-3V3c0-1.662-1.338-3-3-3Zm4.2 7.2h8.641c.53 0 .959.43.959.959v3.266c0 .53-.43.959-.959.959h-.961v.768h1.92V16.8h-4.416v-2.88h-.768v2.88H7.2Zm3.648 3.648v.768h2.304v-.768z"/></svg>
-        <img src = <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Cloud Storage</title><path d="M24 2.4v8.4h-2.4V2.4H24zM0 10.8h2.4V2.4H0v8.4zm3-8.4h18v8.4H3V2.4zm12.6 4.2a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 0 0-3.6 0zm-10.8.6H12V6H4.8v1.2zm16.8 14.4H24v-8.4h-2.4v8.4zM0 21.6h2.4v-8.4H0v8.4zm3-8.4h18v8.4H3v-8.4zm12.6 4.2a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 0 0-3.6 0zM4.8 18H12v-1.2H4.8V18z"/></svg>
-         <img src = <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Gemini</title><path d="M11.04 19.32Q12 21.51 12 24q0-2.49.93-4.68.96-2.19 2.58-3.81t3.81-2.55Q21.51 12 24 12q-2.49 0-4.68-.93a12.3 12.3 0 0 1-3.81-2.58 12.3 12.3 0 0 1-2.58-3.81Q12 2.49 12 0q0 2.49-.96 4.68-.93 2.19-2.55 3.81a12.3 12.3 0 0 1-3.81 2.58Q2.49 12 0 12q2.49 0 4.68.96 2.19.93 3.81 2.55t2.55 3.81"/></svg>
+      <img src = "https://img.shields.io/badge/Google%20cloud%20-4285F4Color%3Dwhite" /> 
+       <img src = " https://img.shields.io/badge/%20CI%2FCD-4295F7" />
+       <img src = "https://img.shields.io/badge/%20Ruff%20Linting-4295A2" />
   </tr>
 </table>
 
