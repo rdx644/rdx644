@@ -87,9 +87,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
       <h3>🏥 <a href="https://github.com/rdx644/VoteWise-Election-Assistant.git">VoteWise-Election-Assistant</a></h3>
       <p><b>An AI-powered assistant that helps users understand the U.S. election process, timelines, and steps in an interactive and easy-to-follow way.</b></p>
       <p>
-       <img src = <img width="512" height="512" alt="CloudRun-512-color-rgb" src="https://github.com/user-attachments/assets/b51b5d9c-aa13-4df8-8c76-a5289e63eb71" />
-
-    </td>
+       <img src="https://github.com/user-attachments/assets/b51b5d9c-aa13-4df8-8c76-a5289e63eb71" alt="SHUBHAMPUTITUNDI" width="100%"/>
   </tr>
 </table>
 
