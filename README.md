@@ -15,7 +15,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 
 * 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology 
 * 🌱 **Currently Mastering:** Agentic AI Workflows, Advanced AWS Architecture, and Graph-Database Threat Detection.
-* ⚡ **Fun Fact:** I actively participate in AI and engineering hackathons to push the boundaries of generative systems.
+* ⚡ **Fun Fact:** I actively participate in AI and Cyber engineering hackathons to push the boundaries of generative systems.
 
 ---
 
