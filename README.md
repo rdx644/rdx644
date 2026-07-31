@@ -36,7 +36,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/rdx644">CyberShield AI</a></h3>
+      <h3>🛡️ <a href="https://github.com/rdx644/CyberShield-AI.git">CyberShield AI</a></h3>
       <p><b>AI-Driven Zero Trust Cybersecurity Platform</b></p>
       <p>An intelligent, multi-layered security system leveraging Machine Learning to detect and neutralize threats in real-time. Achieved 95% accuracy in phishing detection via TF-IDF + Logistic Regression and implemented real-time network anomaly detection.</p>
       <p>
@@ -57,7 +57,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎭 <a href="https://github.com/rdx644">AI-Directed NPC Actors</a></h3>
+      <h3>🎭 <a href="https://github.com/rdx644/Ai-Directed-NPC-Actors.git">AI-Directed NPC Actors</a></h3>
       <p><b>Multi-Service API Orchestration</b></p>
       <p>Architected a dynamic NPC orchestration system utilizing LLMs to generate contextually aware, adaptive non-player character behavior. Streamlined complex agent logic and real-time generative decision-making.</p>
       <p>
