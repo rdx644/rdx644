@@ -103,7 +103,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
   </a>
   <br><br>
   <!-- 3D Contribution Calendar -->
-<h3>🧊 3D Contribution Graph</h3>
+<h3>🧊 Contribution Graph</h3>
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </div>
   
