@@ -102,16 +102,8 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true" alt="rdx644's GitHub Streak" />
   </a>
   <br><br>
+  <!-- 3D Contribution Calendar -->
+<h3>🧊 3D Contribution Graph</h3>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+</div>
   
-  <!-- Adds the unique Animated Activity Graph -->
-  <a href="https://github.com/rdx644">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdx644&theme=react-dark&hide_border=true&area=true&custom_title=31-Day%20Contribution%20Activity" alt="Animated Activity Graph" />
-  </a>
-</div>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
