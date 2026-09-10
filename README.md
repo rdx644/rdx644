@@ -96,17 +96,22 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 ---
 
 ## 📈 GitHub Analytics
-
 <div align="center">
+  <!-- Keeps your working streak card -->
   <a href="https://github.com/rdx644">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true" alt="rdx644's GitHub Streak" />
   </a>
+  <br><br>
+  
+  <!-- Adds the unique Animated Activity Graph -->
   <a href="https://github.com/rdx644">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdx644&theme=react-dark&hide_border=true&area=true&custom_title=31-Day%20Contribution%20Activity" alt="Animated Activity Graph" />
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6b8b21f6-e384-45a5-89fd-ceef40a8d65c" alt="SHUBHAMPUTITUNDI" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rdx644/rdx644/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
