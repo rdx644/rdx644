@@ -99,7 +99,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 <div align="center">
   <!-- Keeps your working streak card -->
   <a href="https://github.com/rdx644">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true" alt="rdx644's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true&v=1" alt="rdx644's GitHub Streak" />
   </a>
   <br><br>
   <!-- 3D Contribution Calendar -->
