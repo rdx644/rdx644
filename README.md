@@ -1,117 +1,35 @@
-<div align="center">
- <img src="https://github.com/user-attachments/assets/6e418ad9-b2b7-4766-811e-3c2d521dbd58" alt="SHUBHAMPUTITUNDI" width="100%" />
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineer;Zero+Trust+Cybersecurity;AI%2FML+Developer;AWS+%26+GCP+Solutions" alt="Typing SVG" />
-  </a>
-  <br>
-<a href="https://shubham-putitundi-2v6467k.gamma.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shubham-putitundi-b41a802b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:putitundishubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-<br>
-👨‍💻 About Me
-
-I am a certified Cloud Professional and Software Engineer focused on the intersection of **Zero Trust Cybersecurity, Cloud Infrastructure, and Generative AI**. I thrive on transforming complex logic into robust, production-ready solutions, from multi-layered threat detection to intelligent API orchestration.
-
-* 🎓 **Academics:** Final-Year B.Tech CS (Cloud Computing) @ SRM Institute of Science and Technology 
-* 🌱 **Currently Mastering:** Agentic AI Workflows, Advanced AWS Architecture, and Graph-Database Threat Detection.
-* ⚡ **Fun Fact:** I actively participate in AI and Cyber engineering hackathons to push the boundaries of generative systems.
-
 ---
 
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
+  
+  <br>
+  <b>Cloud & Infrastructure</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,py,java,js,scikit,tensorflow,linux,git,github,docker,bash&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,terraform&theme=dark" alt="Cloud and Infrastructure Icons" />
   </a>
+  <br><br>
+
+  <b>Backend & System Design</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,express,mysql,postgres,mongodb,redis&theme=dark" alt="Backend and System Design Icons" />
+  </a>
+  <br><br>
+
+  <b>AI, ML & Agentic Engineering</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,scikit,pytorch,fastapi&theme=dark" alt="AI ML and Agentic Engineering Icons" />
+  </a>
+  <br><br>
+
+  <b>DevOps & Version Control</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,postman&theme=dark" alt="DevOps and Version Control Icons" />
+  </a>
+
 </div>
 
 <br>
 
 ---
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/rdx644/CyberShield-AI.git">CyberShield AI</a></h3>
-      <p><b>AI-Driven Zero Trust Cybersecurity Platform</b></p>
-      <p>An intelligent, multi-layered security system leveraging Machine Learning to detect and neutralize threats in real-time. Achieved 95% accuracy in phishing detection via TF-IDF + Logistic Regression and implemented real-time network anomaly detection.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/rdx644/Goal-Forge-">Goal Forge</a></h3>
-      <p><b>Production-Grade OKR & Performance Portal</b></p>
-      <p>A full-stack, BRD-compliant goal-tracking application engineered with automated escalations, quarterly manager review workflows, and comprehensive audit logging with secure REST APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎭 <a href="https://github.com/rdx644/Ai-Directed-NPC-Actors.git">AI-Directed NPC Actors</a></h3>
-      <p><b>Multi-Service API Orchestration</b></p>
-      <p>Architected a dynamic NPC orchestration system utilizing LLMs to generate contextually aware, adaptive non-player character behavior. Streamlined complex agent logic and real-time generative decision-making.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Generative_AI-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/rdx644/Chronic-Disease-Risk-Prediction">Chronic Disease Prediction</a></h3>
-      <p><b>AI-Powered Healthcare Platform on AWS</b></p>
-      <p>An ML-driven risk prediction system deployed on AWS for scalable, real-time risk scoring and healthcare intelligence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 <a href="https://github.com/rdx644">College Issue Tracking System</a></h3>
-      <p><b>Web-based Complaint Management Workflow</b></p>
-      <p>Developed a comprehensive software engineering project detailing front-end mockups and systematic workflow descriptions for tracking and resolving collegiate complaints.</p>
-      <p>
-       <img src="https://img.shields.io/badge/Software_Engineering-000000?style=flat&logo=git&logoColor=white" />
-       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/rdx644/VoteWise-Election-Assistant.git">VoteWise-Election-Assistant</a></h3>
-      <p><b>An AI-powered assistant that helps users understand the U.S. election process, timelines, and steps in an interactive and easy-to-follow way.</b></p>
-      <p>
-       <img src="https://img.shields.io/badge/Google%20cloud%20-4285F4Color%3Dwhite" /> 
-       <img src="https://img.shields.io/badge/%20Ruff%20Linting-4295A2" />
-       <img src="https://github.com/rdx644/VoteWise-Election-Assistant/actions/workflows/ci.yml/badge.svg"/> 
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-<div align="center">
-  <!-- GitHub Total Contributions Stats Card -->
-  <a href="https://github.com/rdx644">
-    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=dark&hide_border=true" alt="rdx644's GitHub Stats" />
-  </a>
-  <br><br>
-  <!-- Keeps your working streak card -->
-  <a href="https://github.com/rdx644">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true" alt="rdx644's GitHub Streak" />
-  </a>
-  <br><br>
-  <!-- 3D Contribution Calendar -->
-  <h3>🧊 Contribution Graph</h3>
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
-</div>
