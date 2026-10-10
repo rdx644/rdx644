@@ -83,13 +83,17 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
       <p>
        <img src="https://img.shields.io/badge/Software_Engineering-000000?style=flat&logo=git&logoColor=white" />
        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-       <td width="50%" valign="top">
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/rdx644/VoteWise-Election-Assistant.git">VoteWise-Election-Assistant</a></h3>
       <p><b>An AI-powered assistant that helps users understand the U.S. election process, timelines, and steps in an interactive and easy-to-follow way.</b></p>
       <p>
-      <img src = "https://img.shields.io/badge/Google%20cloud%20-4285F4Color%3Dwhite" /> 
-       <img src = "https://img.shields.io/badge/%20Ruff%20Linting-4295A2" />
-       <img src = "https://github.com/rdx644/VoteWise-Election-Assistant/actions/workflows/ci.yml/badge.svg"/> 
+       <img src="https://img.shields.io/badge/Google%20cloud%20-4285F4Color%3Dwhite" /> 
+       <img src="https://img.shields.io/badge/%20Ruff%20Linting-4295A2" />
+       <img src="https://github.com/rdx644/VoteWise-Election-Assistant/actions/workflows/ci.yml/badge.svg"/> 
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -97,13 +101,17 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 
 ## 📈 GitHub Analytics
 <div align="center">
+  <!-- GitHub Total Contributions Stats Card -->
+  <a href="https://github.com/rdx644">
+    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=dark&hide_border=true" alt="rdx644's GitHub Stats" />
+  </a>
+  <br><br>
   <!-- Keeps your working streak card -->
-  <a href="https://github.com/rdx644&v=2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true&v=1" alt="rdx644's GitHub Streak" />
+  <a href="https://github.com/rdx644">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdx644&theme=dark&hide_border=true" alt="rdx644's GitHub Streak" />
   </a>
   <br><br>
   <!-- 3D Contribution Calendar -->
-<h3>🧊 Contribution Graph</h3>
+  <h3>🧊 Contribution Graph</h3>
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </div>
-  
