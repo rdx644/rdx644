@@ -122,7 +122,7 @@ I am a certified Cloud Professional and Software Engineer focused on the interse
 <div align="center">
   <!-- GitHub Total Contributions Stats Card -->
   <a href="https://github.com/rdx644">
-    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=dark&hide_border=true" alt="rdx644's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rdx644&show_icons=true&theme=dark&hide_border=true" />
   </a>
   <br><br>
   <!-- Keeps your working streak card -->
